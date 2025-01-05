@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
+- **Email**: pranjal.sharma.ca.p@gmail.com
 - **GitHub Profile**: [pranjals07](https://github.com/pranjals07)
 
 ---
